@@ -1,4 +1,5 @@
 # Practice-AutoLayout-iOS13
+![Landscape Screenshot](Documentation/landscape-screenshot.png)
 
 ## Our Goal
 
@@ -17,4 +18,4 @@ Although Dicee is already pretty dicey, we get into problems when we try to rota
 * Understanding what Xcode needs in order to correctly layout a design.
 * How to use Stack Views to create complex interfaces.
 
-# Practice-AutoLayout-iOS13
+![Landscape Screenshot](Documentation/portrait-screenshot.png)
